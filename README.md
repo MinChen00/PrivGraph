@@ -1,5 +1,5 @@
 # PrivGraph
-Implementation of PrivGraph
+Implementation of [PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information](https://arxiv.org/abs/2304.02401).
 ## Requirements
 
 
@@ -49,7 +49,7 @@ python IM_spread.py
 ## Citation
 
 ```
- @inproceedings{YZDCCS23,
+ @inproceedings{PrivGraph23,
     author = {Quan Yuan and Zhikun Zhang and Linkang Du and Min Chen and Peng Cheng and Mingyang Sun},
     title = {{PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information}},
     booktitle = {{USENIX Security}},
